@@ -1,0 +1,3 @@
+interface ElectricalAppliance {
+    double calculateElectricityCost();
+}
